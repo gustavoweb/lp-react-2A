@@ -6,6 +6,8 @@
 .header nav{
     width: 100%;
     background-color: red;
+    margin-top: 4vh;
+    float: right;
 }
 .header nav ul{
 }
@@ -20,4 +22,6 @@
     font-size: 1em;
     color: var(--cinza-claro);
     margin-right: 5%;
+    text-transform: uppercase;
+    font-weight: bold;
 }
